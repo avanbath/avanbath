@@ -8,4 +8,4 @@ Want to collaborate? Reach out to me via [email](mailto:avanbath@gmail.com). I'm
 ###
 <br>
 
-![Avan Bath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avanbath&include_all_commits=true&hide=contribs&show_icons=false&theme=swift)
+![Avan Bath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avanbath&include_all_commits=true&hide=contribs&hide_rank=true&show_icons=false&theme=swift)
